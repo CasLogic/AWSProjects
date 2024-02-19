@@ -1,8 +1,13 @@
-In this project, I learnear how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. I working with a dataset of 50,000 best-selling products on Amazon.com.
+In this project, I learnear how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. 
+I working with a dataset of 50,000 best-selling products on Amazon.com.
+
 The datasets are the "Amazon Bestseller Dataset" CSV file and the "manifest.json" file.
+
 I first started by creating a S3 bucket. I named my bucket 'cas-quicksight' with default settings. 
+
 Next I uploadded the "Amazon Bestseller Dataset" CSV file to the bucket. 
 Then I changed the URL in the "manifeset.json" to match the dataset in the S3 bucket.
 Lastly I navigated to Amazon Quicksight. Enter the link to your "manifest.json" file and connect to Quicksight.
 Select "interactive sheet" to start creating visualizations.
-Created visualiztions for several datasets. Some were most bought brands, top 10 brands, which sellers have to most best selling products. Using different types of graphs like bar charts, pie charts, line graphs, etc.
+Created visualiztions for several datasets. Some were most bought brands, top 10 brands, which sellers have to most 
+best selling products. Using different types of graphs like bar charts, pie charts, line graphs, etc.
