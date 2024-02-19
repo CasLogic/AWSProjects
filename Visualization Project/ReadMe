@@ -1,5 +1,5 @@
 In this project, I learnear how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. 
-I working with a dataset of 50,000 best-selling products on Amazon.com.
+I worked with a dataset of 50,000 best-selling products on Amazon.com.
 
 The datasets are the "Amazon Bestseller Dataset" CSV file and the "manifest.json" file.
 
