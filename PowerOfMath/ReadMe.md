@@ -1,4 +1,6 @@
-This is another simple project where I used five different services—Amplify, Lambda, IAM, API Gateway and DynamoDB.
+
+
+This is a simple project where I built a serverless web application by using five different services—Amplify, Lambda, IAM, API Gateway and DynamoDB.
 
 1. In the initial steps I created a webpage and hosted it using Amplify. The site can be found on the index.html file attached.
 
